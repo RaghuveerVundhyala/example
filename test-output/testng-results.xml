@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="12770" started-at="2020-11-26T16:13:20Z" finished-at="2020-11-26T16:13:33Z">
+    <groups>
+    </groups>
+    <test name="Functional_test" duration-ms="12770" started-at="2020-11-26T16:13:20Z" finished-at="2020-11-26T16:13:33Z">
+      <class name="test.Test99GuruLogin">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.Test99GuruLogin@282ba1e]" name="setup" is-config="true" duration-ms="9040" started-at="2020-11-26T21:43:20Z" finished-at="2020-11-26T21:43:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test_Home_Page_Appear_Correct()[pri:0, instance:test.Test99GuruLogin@282ba1e]" name="test_Home_Page_Appear_Correct" duration-ms="3696" started-at="2020-11-26T21:43:29Z" finished-at="2020-11-26T21:43:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Home_Page_Appear_Correct -->
+      </class> <!-- test.Test99GuruLogin -->
+    </test> <!-- Functional_test -->
+  </suite> <!-- Suite1 -->
+</testng-results>
